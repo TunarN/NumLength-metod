@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\bin\Debug\netcoreapp3.1\array metod.exe
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\bin\Debug\netcoreapp3.1\array metod.deps.json
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\bin\Debug\netcoreapp3.1\array metod.runtimeconfig.json
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\bin\Debug\netcoreapp3.1\array metod.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\bin\Debug\netcoreapp3.1\array metod.dll
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\bin\Debug\netcoreapp3.1\array metod.pdb
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\obj\Debug\netcoreapp3.1\array metod.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\obj\Debug\netcoreapp3.1\array metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\obj\Debug\netcoreapp3.1\array metod.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\obj\Debug\netcoreapp3.1\array metod.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\obj\Debug\netcoreapp3.1\array metod.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\obj\Debug\netcoreapp3.1\array metod.dll
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\obj\Debug\netcoreapp3.1\array metod.pdb
+C:\Users\lenovo\Desktop\metodlar tapsiriq\array metod\array metod\obj\Debug\netcoreapp3.1\array metod.genruntimeconfig.cache
